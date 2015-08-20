@@ -1415,7 +1415,7 @@ console.log("Running Apos Bot!");
     }
 
     /**
-     * The game's current mode. (FFA is "", ":experimental", ":teams". ":party")
+     * The game's current mode. (teams is "", ":experimental", ":teams". ":party")
      * @return {[type]} [description]
      */
     function getMode() {
